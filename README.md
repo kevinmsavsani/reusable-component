@@ -8,6 +8,8 @@ npm create next-app --typescript
 
 npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 
+npm install --save-dev @types/react @types/node
+
 npx tailwindcss init -p
 
 
